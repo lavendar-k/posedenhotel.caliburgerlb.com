@@ -9,8 +9,8 @@
         <div style="font-size: 1.50rem;">Caliburger</div>
         <div style="font-size: 0.875em;">Zahlé - Baalbek Hwy, Lebanon</div>
         <div style="font-size: 0.875em;">+961 70 615 556</div>
-        <div style="font-size: 0.875em;">info@the-bruvs.com</div>
-        <div style="font-size: 0.875em;">www.the-bruvs.com</div>
+        <div style="font-size: 0.875em;">info@caliburgerlb.com</div>
+        <div style="font-size: 0.875em;">www.caliburgerlb.com</div>
     </div>
 
     <div style="text-align: center !important;margin-bottom: 0.5rem !important;">Receipt № {{ $order->number }}</div>

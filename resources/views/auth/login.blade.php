@@ -14,7 +14,7 @@
                 <div class="card w-100 rounded-4" style="background-color: rgba(255, 255, 255, .6)">
                     <div class="card-body p-4">
                         <div class="text-center">
-                            <!-- <img src="https://the-bruvs.com/images/webp/logo.webp" alt="the-bruvs"> -->
+                            <!-- <img src="https://caliburgerlb.com/images/webp/logo.png" alt="the-bruvs"> -->
                             <div style="font-size: 50px;">For Eden Hotel</div>
                         </div>
                         <h5 class="card-title mb-sm-3 text-center">Log in to the system</h5>

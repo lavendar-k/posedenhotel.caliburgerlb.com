@@ -491,10 +491,10 @@ class PointOfSale extends Component<Props, State> {
             `<div style="font-size: 0.875em;">+961 70 615 556</div>`
         );
         printWindow.document.write(
-            `<div style="font-size: 0.875em;">info@the-bruvs.com</div>`
+            `<div style="font-size: 0.875em;">info@caliburgerlb.com</div>`
         );
         printWindow.document.write(
-            `<div style="font-size: 0.875em;">www.the-bruvs.com</div>`
+            `<div style="font-size: 0.875em;">www.caliburgerlb.com</div>`
         );
         printWindow.document.write(`</div>`);
 

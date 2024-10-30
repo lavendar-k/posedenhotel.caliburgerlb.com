@@ -485,10 +485,10 @@ class PointOfSale extends Component<Props, State> {
             '<div style="font-size: 1.50rem;">Caliburger</div>'
         );
         printWindow.document.write(
-            `<div style="font-size: 0.875em;">Zahlé - Baalbek Hwy, Lebanon</div>`
+            `<div style="font-size: 0.875em;">Eden Hotel, Jdeide, Mont-Liban </div>`
         );
         printWindow.document.write(
-            `<div style="font-size: 0.875em;">+961 70 615 556</div>`
+            `<div style="font-size: 0.875em;">+961 81 216 711</div>`
         );
         printWindow.document.write(
             `<div style="font-size: 0.875em;">info@caliburgerlb.com</div>`

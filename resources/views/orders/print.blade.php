@@ -7,8 +7,8 @@
 <body>
     <div style="margin-bottom: 1.5rem;text-align: center !important;">
         <div style="font-size: 1.50rem;">Caliburger</div>
-        <div style="font-size: 0.875em;">Zahlé - Baalbek Hwy, Lebanon</div>
-        <div style="font-size: 0.875em;">+961 70 615 556</div>
+        <div style="font-size: 0.875em;">Eden Hotel, Jdeide, Mont-Liban </div>
+        <div style="font-size: 0.875em;">+961 81 216 711</div>
         <div style="font-size: 0.875em;">info@caliburgerlb.com</div>
         <div style="font-size: 0.875em;">www.caliburgerlb.com</div>
     </div>
